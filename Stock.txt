@@ -1,0 +1,3 @@
+Harry Potter,JK Rowling,12,$2
+Start With Why,Simon Sinek,17,$1.5
+Letting Go,Philip Roth,16,$1.5
